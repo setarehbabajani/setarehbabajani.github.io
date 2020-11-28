@@ -20,7 +20,7 @@ comments: false
 
 |           | **Past**                       |
 |----|------|--------------------------------|
-|2019|Spring| **<a href="/ad97/">Algorithm Design</a>**         |
+|2019|Spring| **<a href="/ad97/">ithm DesAlgorign</a>**         |
 |----|------|--------------------------------|
 |2019|Spring| **<a href="/ap97/">Advanced Programming - C#</a>** |
 |----|------|--------------------------------|
