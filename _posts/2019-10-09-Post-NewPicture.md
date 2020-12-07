@@ -5,21 +5,15 @@ title: Conversation
 
 **With appreciate from Mina Samizade**
 
+goft va go ba khanoum samizade :
 
-                    :گفت و گو با خانم سمیعی زاده    
+madrak tahsili : karshenasi va karshenasi arshad dar IUST , dar hal tahsil baraye doktora
 
-مدرک تحصیلی = کارشناسی و کارشناسی ارشد در علم و صنعت ایران ، در حال حاضر در حال تحصیل برای دکتری    
+gerayesh tahsili : machine learning , AI
 
-
-                       گرایش تحصیلی = هوش مصنوعی   
-
-                                        :توصیه ها   
-
-1.   انجام کارهای گروهی و درست کردن رزومه خوب  
-
-2.   داشتن اعتماد به نفس در برنامه نویسی که می توان با کار کردن به دست آورد  
-
-3.   داشتن معدل بالا بطوریکه بهتر است معدلمان همیشه بالای 16 باشد  
-
-4.   انتخاب گرایش ابتدا بر اساس علایق خود و سپس براساس راحت تر بودن   
-
+Tosiyeha :
+1. Anjam karhaye gorohi va taghviyat rezome
+2. dashtan etemad be nafs dar code zani(ke ba kar kardan dan sherkat ha be dast miayad)
+3. negah dashtan renje moadel balaye 16
+4. bargharari ertebat khoub ba asatid mokhtalef
+5. entekhab gerayesh ebteda bar asas alaghe sepas rahati kar
