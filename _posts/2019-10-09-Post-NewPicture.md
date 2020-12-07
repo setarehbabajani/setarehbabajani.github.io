@@ -1,23 +1,19 @@
 ---
 layout: posts
-title: My new picture
+title: Conversation
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
-
-[my favorite website](http://www.google.com)
-
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+### With appreciate from Mina Samizade###
 
 
+<div dir="rtl">  :گفت و گو با خانم سمیعی زاده   
+مدرک تحصیلی = کارشناسی و کارشناسی ارشد در علم و صنعت ایران ، در حال حاضر در حال تحصیل برای دکتری   
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
 
----
-**Test**: This is atest
+گرایش تحصیلی = هوش مصنوعی 
+
+:توصیه ها 
+1. انجام کارهای گروهی و درست کردن رزومه خوب
+2. داشتن اعتماد به نفس در برنامه نویسی که می توان با کار کردن به دست آورد
+3. داشتن معدل بالا بطوریکه بهتر است معدلمان همیشه بالای 16 باشد
+4. انتخاب گرایش ابتدا بر اساس علایق خود و سپس براساس راحت تر بودن 
