@@ -110,13 +110,14 @@ author:
   name             : "Setareh Babajani"
   avatar           : "/assets/images/profile.png"
   bio              : I'm a student of computer engineering . I love doing new things and being helpful for others .
-  location         : "تهران"
+  location         : "مازندران"
   email            : setmanbaba@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
+  twitter:
+  linkedin: setareh babajani
+
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: setarehbabajani.github.io
+  instagram:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

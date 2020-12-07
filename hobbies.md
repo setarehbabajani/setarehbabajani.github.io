@@ -9,6 +9,8 @@ comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* Sleeping
+* Hiking
+* playing games
 
 
