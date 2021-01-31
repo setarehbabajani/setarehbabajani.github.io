@@ -12,4 +12,4 @@ title: My Hackathon Project
 
 <a href = "http://99521109.pythonanywhere.com/blog/form/" >این آدرس سایت من است></a>
 
-<img src = "C:\Users\VivoBook\Pictures\Screenshots\star.png" alt = "وبسایت من">
+<img src = "C:\Users\VivoBook\Pictures\Screenshots\star.png" alt = "وب سایت من">
