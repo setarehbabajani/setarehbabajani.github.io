@@ -33,8 +33,8 @@ gallery:
     title: "Image 6 title caption"
   - url: /assets/images/Aks.jpg
     image_path: /assets/images/Aks.jpg
-    alt: "placeholder image 7"
-    title: "Image 7 title caption"
+    alt: "aks"
+    title: "Image"
 ---
 
 {% include gallery caption="This is a sample gallery of my favorites ." %}
