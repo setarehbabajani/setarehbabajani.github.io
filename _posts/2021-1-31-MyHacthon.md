@@ -10,5 +10,5 @@ My goal is to stop damaging the flowers.
 
 And  even  learn how to care for them.
 <a href ="http://99521109.pythonanywhere.com/blog/form/">This is my site address>
-<img src ="C:\Users\VivoBook\Pictures\Screenshots\star.png" alt = "وب سایت من">
+<img src =C:\Users\VivoBook\Pictures\Screenshots\star.png alt = "وب سایت من">
 </a>
