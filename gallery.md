@@ -31,6 +31,10 @@ gallery:
     image_path: /assets/images/newpic.jpg
     alt: "placeholder image 6"
     title: "Image 6 title caption"
+  - url: /assets/images/Aks.jpeg
+    image_path: /assets/images/Aks.jpeg
+    alt: "placeholder image 7"
+    title: "Image 7 title caption"
 ---
 
 {% include gallery caption="This is a sample gallery of my favorites ." %}
