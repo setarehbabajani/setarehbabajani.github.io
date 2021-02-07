@@ -2,7 +2,7 @@
 layout: posts
 title: My Music Project
 ---
-<p1>Hello everyone ... hope you love this musics <br>
+<p1>Hello everyone ... hope you have a good time   <br>
 In this post, I will share with you 3 songs that I made by Sonic Pie project.
 Thanks to Sonic Pie and its programmers .
 <br>
@@ -21,5 +21,6 @@ And finally there is a song with Sonic Pie's samples that I hope you like .
 </a>
 <br><br>
 If I want to explain this project to you, its ideas were based on the songs I liked and the rhythms that made me happy.
-Very Soooon, I will share more songs wiht you in the next attempts .
+Very Soooon, I will share more songs with you in the next attempts .
+**Be healthy**
 <br>
