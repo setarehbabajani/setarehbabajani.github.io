@@ -111,8 +111,8 @@ author:
   avatar           : "/assets/images/sp.jpeg"
   bio              : I'm a student of computer engineering . I love doing new things and being helpful for others .
   location         : "مازندران"
-  email            : "setarehbabajani81@gmail.com"
-  twitter:
+  # email            : "setarehbabajani81@gmail.com"
+  # twitter:
   linkedin: setareh babajani
 
   google_scholar: Q25s5KkAAAAJ
