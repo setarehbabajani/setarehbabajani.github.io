@@ -111,7 +111,7 @@ author:
   avatar           : "/assets/images/sp.jpeg"
   bio              : I'm a student of computer engineering . I love doing new things and being helpful for others .
   location         : "مازندران"
-  # email            : "setarehbabajani81@gmail.com"
+  email            : "setarehbabajani81@gmail.com"
   # twitter:
   linkedin: setareh babajani
 
@@ -119,9 +119,9 @@ author:
   github: setarehbabajani.github.io
   instagram:
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "setarehbabajani81@gmail.com"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "setarehbabajani81@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "www.setarehb.ir"
