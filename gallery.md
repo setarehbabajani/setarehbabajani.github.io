@@ -35,6 +35,10 @@ gallery:
     image_path: /assets/images/Aks.jpg
     alt: "aks"
     title: "Image"
+  - url: /assets/images/fp.jpeg
+    image_path: /assets/images/fp.jpeg
+    alt: "My Picture"
+    title: "Me"
 ---
 
 {% include gallery caption="This is a sample gallery of my favorites ." %}
